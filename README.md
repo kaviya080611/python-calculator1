@@ -1,2 +1,2 @@
-# python-calculator1
+# python-calculator
 beginner Python calculator app using tkinter 
